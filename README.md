@@ -1,5 +1,5 @@
-<h1 align="center">nsrddyn</h1>
-- I’m currently learning C and Javascript
+<h1 align="center">nsrddyn - nasr - Abdellah</h1>
+- HTML, CSS, JS, C, Python, Java
 
-- How to reach me **nsrddyn@gmail.com**
+- email: **nsrddyn@gmail.com**
 
