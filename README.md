@@ -24,7 +24,7 @@ Currently expanding my skills in **systems programming**, **software engineering
 
 ---
 
-###Tech Stack
+### Tech Stack
 
 <div>
   
