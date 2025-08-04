@@ -5,11 +5,6 @@
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nasrlol&color=blue" alt="Profile views" />
-</p>
-
 ---
 
 ### About Me
