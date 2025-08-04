@@ -10,10 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=nasrlol&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nasrlol/count.svg?" alt="Visitor Count" />
-</p>
-
 ---
 
 ### About Me
