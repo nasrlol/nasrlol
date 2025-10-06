@@ -1,7 +1,6 @@
 <h1 align="center">Abdellah El Morabit</h1>
 
 <br/>
----
 
 ### About Me
 
