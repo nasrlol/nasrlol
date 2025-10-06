@@ -9,7 +9,6 @@ I primarily work with **C** and **Go**, focusing on system-level and scalable so
 Currently expanding my skills in **systems programming**, **software engineering**, **ethical hacking**, and **open-source collaboration**.
 
 ---
-### Tech Stack
 
 <div>
   
