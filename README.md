@@ -6,7 +6,7 @@
 
 I'm a passionate developer who loves Linux, open-source, and low-level programming.  
 I primarily work with **C** and **Go**, focusing on system-level and scalable software development.  
-Currently expanding my skills in **systems programming**, **software engineering**, **ethical hacking**, and **open-source collaboration**.
+Currently expanding my skills in **systems programming**, **software engineering**, **cybersecurity**, and **open-source collaboration**.
 
 ---
 
