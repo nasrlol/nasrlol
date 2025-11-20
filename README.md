@@ -14,8 +14,8 @@ Currently expanding my skills in **systems programming**, **software engineering
   
 | Languages & Tools |
 |-------------------|
-|![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-
+|![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+ 
 </div>
 
 ---
